@@ -1,0 +1,51 @@
+loadcsv products.csv
+listcurrencies
+listproductsbymanufacturer Corgi
+showproduct 337f4b345c048cf3b0ee87415e5a1b87
+savecsv savedState.csv
+showproduct 7fca35221faf1caac4cfa85fa7e05259
+loadcsv savedState.csv
+addcurrency MYC a 3.14
+addcurrency YEN y 200.11
+updateparity MYC 4
+listcurrencies
+showproduct a03bd6714ee06834415f45f356e99b44
+adddiscount FIXED 0.2 "-0.2 for everyone"
+listdiscounts
+showproduct a5d02032ff4bbc5af2e547bd0ce6a917
+adddiscount FIXED 2 "We feel generous today"
+applydiscount FIXED 0.2
+showproduct d9fc0c55152b75eab486564d2dfb4a84
+listdiscounts
+getstorecurrency
+calculatetotal a03bd6714ee06834415f45f356e99b44 eac7efa5dbd3d667f26eb3d3ab504464
+setstorecurrency YEN
+updateparity YEN 100
+calculatetotal 798c64c4eeb48bb985b94d45e5c5cfc0 fe3a9e7583304a41e519c7e94dc9288e b4074f7e49868e0f866f9b9882f587f6
+showproduct 23a5299bcd2de3f0b6055d5b1547036d
+getstorecurrency
+setstorecurrency MYC
+showproduct 7fca35221faf1caac4cfa85fa7e05259
+adddiscount PERCENTAGE 30 "Be happy,don't worry about it"
+adddiscount PERCENTAGE 90 "We are giving it all away"
+listcurrencies
+adddiscount PERCENTAGE 20 "Holiday's special"
+listdiscounts
+listproductsbymanufacturer Hornby
+getstorecurrency
+addcurrency GBP P 1.5
+setstorecurrency GBP
+listcurrencies
+savestore backup
+showproduct d9fc0c55152b75eab486564d2dfb4a84
+applydiscount FIXED 0.2
+listdiscounts
+listcurrencies
+showproduct d9fc0c55152b75eab486564d2dfb4a84
+applydiscount PERCENTAGE 20
+loadstore backup
+listdiscounts
+listcurrencies
+listmanufacturers
+calculatetotal a03bd6714ee06834415f45f356e99b44 eac7efa5dbd3d667f26eb3d3ab504464
+quit

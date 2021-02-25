@@ -1,0 +1,10 @@
+loadcsv products.csv
+listproductsbymanufacturer Hornby
+listcurrencies
+savestore backup
+addcurrency myc a 3.14
+loadstore backup
+listcurrencies
+showproduct b7305bef81247f7f4acafbbf8f2bff5f
+calculatetotal b7305bef81247f7f4acafbbf8f2bff5f eac7efa5dbd3d667f26eb3d3ab504464
+quit

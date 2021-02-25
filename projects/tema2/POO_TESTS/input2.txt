@@ -1,0 +1,15 @@
+loadcsv products.csv
+listproductsbymanufacturer Hornby
+listcurrencies
+savestore backup
+addcurrency myc a 3.14
+loadstore backup
+listcurrencies
+showproduct a03bd6714ee06834415f45f356e99b44
+adddiscount PERCENTAGE 50 "Special New Year's"
+adddiscount FIXED 10 "Some random discount"
+applydiscount PERCENTAGE 50
+listdiscounts
+getstorecurrency
+calculatetotal a03bd6714ee06834415f45f356e99b44 eac7efa5dbd3d667f26eb3d3ab504464
+quit

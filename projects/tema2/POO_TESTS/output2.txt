@@ -1,0 +1,75 @@
+eac7efa5dbd3d667f26eb3d3ab504464,Hornby 2014 Catalogue,Hornby,€342.0,5
+e12b92dbb8eaee78b22965d2a9bbbd9f,HORNBY Coach R4410A BR Hawksworth Corridor 3rd,Hornby,€3999.0,0
+e33a9adeed5f36840ccc227db4682a36,Hornby 00 Gauge 0-4-0 Gildenlow Salt Co. Steam Locomotive Model,Hornby,€3219.0,0
+f74b562470571dfb689324adf236f82c,Hornby 00 Gauge 230mm BR Bogie Passenger Brake Coach Model (Red),Hornby,€2499.0,0
+87bbb472ef9d90dcef140a551665c929,Hornby Santa's Express Train Set,Hornby,€6993.0,3
+7e2aa2b4596a39ba852449718413d7cc,Hornby Gauge Western Express Digital Train Set with eLink and TTS Loco Train Set,Hornby,€23558.0,4
+5c76389a8c302c6d7d6e179393031b97,Hornby Gauge Railroad Mosley Tarmacadam Locomotive,Hornby,€2749.0,6
+03a35de3f7af9814978e6de645cb8ffa,Hornby 00 Gauge 253mm Weathered Paviland Grange Steam Locomotive Train Model,Hornby,€11950.0,2
+93a2c5173f17b896dc614ffbac0c2f2c,Hornby R3246TTS LNER 2-8-2 'Cock O' The North' P2 Class with TTS Sound,Hornby,€13995.0,3
+9cfcb02573dc2bb4f04d8660dec33e84,Hornby Gloucester City Pullman Train Set,Hornby,€8231.0,11
+79e16a6819d997b7053a808a79d341b8,Hornby R3086 RailRoad LNER 4-6-2 'Flying Scotsman' Class A3 00 Gauge Steam Locomotive,Hornby,€6999.0,11
+fe0b2ec319cde46d25c34eda5bdc6089,Hornby R1138 GWR Passenger Freight 00 Gauge Electric Train Set,Hornby,€7995.0,9
+58161fc326cb43d81140ae361911035f,Hornby Digital 15 V 4 Amp Transformer,Hornby,€2899.0,6
+590ad6c0f9bdbbac7887ec4e36eb08a0,Hornby Railroad 00 Gauge LNER Class A1 Flying Scotsman with TTS Sound Steam Locomotive,Hornby,€9850.0,9
+5152452656955a9bf425a11ba221f016,Hornby R3064 RailRoad BR Smokey Joe 00 Gauge Steam Locomotive,Hornby,€3099.0,7
+28ae83ef10dfcb3959d67de2c4587123,Hornby R1174 Breakdown Hauler Train Set,Hornby,€7499.0,3
+c2f2229faa77de1279f2f72649ae3bb4,Hornby 00 Gauge 152mm GNR 0-6-2T Steam Locomotive Model,Hornby,€8999.0,3
+dda2d6752683937a8c3cd338ccd034a7,Hornby 00 Gauge 247mm BR Gresley Teak Buffet Coach Model (Blue/ Grey),Hornby,€6025.0,0
+f4ca4da2c5a13cca69817062f48749b7,Hornby 00 Gauge BR Peppercorn Class A1 Tornado Mainline Blue Sound Steam Locomotive,Hornby,€12995.0,3
+146e3c266c7edb06ce8b8538a16e3aff,Hornby R3125 GWR 2-8-0T Class 52XX 00 Gauge Steam Locomotive,Hornby,€11999.0,0
+30cba4e49bcc047cd9d95f9e41105b11,Hornby '00' Gauge R3169 RailRoad GWR 4-6-0 'Olton Hall' 4900 Hall Class Locomotive,Hornby,€6576.0,9
+f64ee770588c055e6119febff3824e9b,Hornby R3162A BR 2-BIL 2 Car EMU Pack,Hornby,€11610.0,5
+60ca5f456176a27b44eef289edfc942e,Hornby 00 Gauge 152mm BR 0-6-2T Steam Locomotive Model,Hornby,€8999.0,2
+0ecb946acda4fd2a96e37d3293428aa0,Hornby Model Railway Railroad 0-4-0 Transatlanic Industries Train OO Gauge R3212,Hornby,€2799.0,0
+780044f0f8212723081813f438ca0cee,Hornby '00' Gauge R3231 BR 0-6-0 J15 Class - Early BR Steam Locomotive,Hornby,€10500.0,2
+142f98f4a806c7c5d7bdfc3f2417e865,Hornby '00' Gauge R4526 RailRoad Night Mail Operating Mail - GWR Chocolate and Cream Coach,Hornby,€2195.0,6
+9c2578668630183035ebdaf8fcf3e84e,Hornby West Coast Highlander,Hornby,€4999.0,4
+dc598f016a3664f70ca65a87022a18a6,Hornby R3060 RailRoad BR 'Tornado' Class A1 00 Gauge Steam Locomotive,Hornby,€7995.0,7
+eac1f8ec83ca5cc5fc0a6ddcb481b3f8,Hornby 00 Gauge 270mm BR Mk1 Corridor Composite BR Maroon Coach Model,Hornby,€1995.0,3
+bed1c3d92b6b1343548ddc5a1001ee89,Hornby Gauge Eurostar 2014 Train Set,Hornby,€14123.0,9
+ae98d9437b91e1550b50395042175ecf,Hornby 00 Gauge RailRoad GWR Restaurant Coach Model,Hornby,€1899.0,6
+de197cda5c870afd5ed2f85b587e6e79,Hornby 00 Gauge 270mm BR Mk1 Corridor Second BR Coach Model (Chocolate/ Cream),Hornby,€1812.0,6
+bdd43e34552ee5d84b793ccceb27b701,Hornby Gauge Flying Scotsman NRM 2015 Rededication Steam Locomotive,Hornby,€16999.0,3
+f82cb6573e01270552f1649a1f1f5f24,Hornby R1151 Caledonian Belle 00 Gauge Electric Train Set,Hornby,€6399.0,18
+536339e39e38d2f216d0555cf86ba007,Hornby R2987 Brighton Belle 1934 00 Gauge DCC Ready 2 Car Pack,Hornby,€16604.0,0
+26f0e95eea814ee55fdf0674142faebe,Hornby Gauge Sentinel Barabel Locomotive,Hornby,€5153.0,4
+3b3a0ded5c6b62a881b665c4913c881d,Hornby 00 Gauge 510mm BR 2-BIL 2 Car Electric Multiple Unit Train Model,Hornby,€10799.0,0
+e27b34032fd39ada24f181fd96eaed13,Hornby R3119 LMS Duchess Of Abercorn - No Smoke Deflectors 00 Gauge Steam Locomotive,Hornby,€11950.0,2
+de3a9b8508d72623ded8cb07dc30331e,Hornby R1167 Flying Scotsman 00 Gauge Electric Train Set,Hornby,€10899.0,17
+9431d2d0575064a3d89bb2cd788cacc4,Hornby 00 Gauge 267mm 1st Class Post 1953 BR Hawksworth Coach Model,Hornby,€3910.0,2
+074832fae76089a3e349ba1ec7d6aa6a,Hornby '00' Gauge R3274 RailRoad BR 2-10-0 Franco Crosti Boiler 9F Class Locomotive,Hornby,€11999.0,2
+59b20e9ba78b1603a09513020b3ef9d6,Hornby 00 Gauge National Mercantile Bank Model,Hornby,€3999.0,0
+95534049f7431eea318a6018bc1eff3f,Hornby Railroad 00 Gauge Bagnall Diesel Shunter Locomotive,Hornby,€2999.0,6
+8aa01bfb947d2aa80e65bc2dc34ec3da,Hornby 00 Gauge LNER 61ft/ 6-inch Sleeping Car Coach Model,Hornby,€4167.0,3
+1550633aff26ec6111b7d0363acbbb69,Hornby 00 Gauge 270mm BR Mk1 Corridor Second BR Coach Model (Maroon),Hornby,€1995.0,3
+3d6c7462ce4369a888159efabc4b71ff,Hornby - Straight Track,Hornby,€303.0,19
+c860ae6ec107e72c2b10da68e5c3a371,Hornby - Long Straight Track,Hornby,€570.0,6
+97ecfa27a8c43418ccb21e825967ee35,Hornby Elevated Track Supports,Hornby,€1346.0,3
+4ae42e70d42b6348458084c301e41013,Jadlam Racing New HORNBY TRACK R607 8 x DOUBLE CURVE 2nd RAD,Hornby,€1869.0,3
+f8dec54d7f301352132faadc8a169048,Hornby - Track Rubber,Hornby,€235.0,13
+19cf2c83bec2cc8465a58e108e6190f7,Hornby Track - Curve 3rd Radius,Hornby,€319.0,16
+98c9bf341a60693e0c55f4ac0b667a06,Hornby R3063 RailRoad LMS 4-4-0 Compound 00 Gauge Steam Locomotive,Hornby,€7499.0,0
+e01ed1e9b7a8961048ae68d336fed7e8,Hornby Gauge Railroad Ex-Industrial Hogarth Stone No.6 Locomotive,Hornby,€2749.0,7
+ac48670b13ca877700ef498e96f97e1a,Hornby R3149 DB Schenker Class 92 00 Gauge Diesel Electric Locomotive,Hornby,€6999.0,0
+b07f8bc34ff88672b18f2ee8f03f3b55,Hornby 00 Gauge 2013 Livery Train Pack Model,Hornby,€13999.0,5
+211e40c3189177f89afb30ee0744e80f,Hornby Gauge EWS Bo-Bo Diesel Electric Class 67 Diesel Locomotive,Hornby,€12105.0,3
+22735fde49e9af5c60e021c253eb00c6,Hornby Track Pack C (R8017),Hornby,€5864.0,3
+a03bd6714ee06834415f45f356e99b44,Hornby RailRoad Wagon BR Horse Box,Hornby,€1995.0,3
+b4800c1cb84f4e465bbf605da3b86700,Hornby R3005 BR 2-8-0 '2845' 2800 Class - Late BR Weathered 00 Gauge DCC Ready Steam Locomotive,Hornby,€11498.0,2
+6ff97a1369257d32307375eec994148d,Hornby R2921 BR 4-6-0 'Thorpe Hall' Class B17/1 00 Gauge DCC Ready Steam Locomotive,Hornby,€12799.0,0
+02162144a863eba0766549dbd0e3b5fa,Hornby The Western Spirit OO Gauge Electric Train Set,Hornby,€9446.0,2
+fdc0aa8c2918e241597f5747b31cc5aa,Hornby R4643 BR Mk1 Second Open Coach,Hornby,€1995.0,5
+6a6babc743e4cbe7c45f4e09a80b7e73,Hornby 00 Gauge 274mm 1st Class Brighton Belle Car Pullman Trailer No.1 Coach Model,Hornby,€4351.0,4
+f261250bb5ce7111b4c0911f54f94893,Hornby 00 Gauge 247mm LNER 61-1/2 Corridor Buffet Car Coach Model,Hornby,€3995.0,2
+c0a3fa19de8c8d0241e3d47f7ae96408,Hornby BMW E30 Coupe (Diamond Black),Hornby,€1999.0,0
+e915490fdeccd686270d69442bf8cb86,Hornby R4479 Pullman 3rd Class Parlour Car 'No. 34' 00 Gauge Coach Rolling Stock,Hornby,€5892.0,1
+63c09725af5df8b0aef50a42099d5362,Hornby R9687 Thomas and Friends British Stamps: James 00 Gauge Limited Edition Steam Locomotive,Hornby,€12620.0,0
+9241eebec4dc8bf5f3f549453699b835,Hornby Hawker Hurricane Mk1 J Haviland,Hornby,€3695.0,3
+EUR 1.0
+EUR 1.0
+a03bd6714ee06834415f45f356e99b44,Hornby RailRoad Wagon BR Horse Box,Hornby,€1995.0,3
+PERCENTAGE_DISCOUNT 50.0 "Special New Year's"  2021-01-09T09:49:33.879271
+FIXED_DISCOUNT 10.0 "Some random discount"  2021-01-09T09:49:33.880537
+EUR
+€3847.5

@@ -1,0 +1,26 @@
+Tema 2 POO (ToyStore)
+Saceleanu Andrei Iulian 321CB
+
+
+Magazinul de jucarii este modelat sub forma unei clase Singleton 
+care retine o lista de produse si producatorii asociati.In fiecare moment,
+exista o moneda unica pe baza careia se calculeaza preturile.
+La adaugarea si setarea unei monede,respectiv la schimbarea ratei de 
+conversie fata euro,produsele sunt instiintate sa recalculeze pretul de baza.
+Astfel,pe langa Singleton si Builder(asociat produselor),s-a folosit si o forma
+de Observer(subiectul-magazinul isi modifica o parte din stare si notifica observatorii).
+
+Incarcarea sau salvarea produselor si a producatorilor se realizeaza prin intermediul
+comenzilor loadcsv si savecsv.Interactiunea cu fisierele CSV se realizeaza cu
+API-ul bibliotecii Apache Commons CSV(CSVPrinter si Iterable<Record> pentru citire)
+Pentru salvarea intregii stari a magazinului,au fost implementate comenzile
+loadstore si savestore care lucreaza cu fisiere binare.
+
+Magazinul poate afisa diferite informatii despre produse cu ajutorul functiilor
+de list general(products,manufacturers)  sau filtrat(productsbymanufacturer).
+Produselor le pot fi aplicate diferite discount-uri disponibile in magazin,pretul final
+fiind utilizat in functii precum calculatetotal.
+
+Comenzile sunt preluate din fisierul commands.txt din radacina proiectului iar rezultatul
+fiecareia este afisat in fisierul results.txt.
+
