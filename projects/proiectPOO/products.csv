@@ -1,0 +1,24 @@
+id,tip,nume,an,pret_minim,pret_vanzare,miscellaneous,auction_participants
+123,tablou,Gioconda,1700,10000,30000,Leonardo da Vinci;ulei,2
+456,tablou,Cina cea de taina,1670,15000,30000,Leonardo da Vinci;ulei,8
+234,tablou,Noapte instelata,1780,12000,25000,Vincent Van Gogh;acrilic,7
+471,tablou,Rondul de noapte,1800,14000,28000,Rembrandt;tempera,4
+721,tablou,Fiul omului,1960,20000,25000,Rene Magritte;ulei,3
+842,tablou,Primavara,1500,19000,35000,Sandro Boticelli;ulei,3
+912,tablou,Autoportret,1889,21000,45000,Vincent Van Gogh;acrilic,4
+701,mobila,Wooden Storage Chest,1900,5000,10000,Chest;lemn,7
+804,mobila,Antique Jewelers Cabinet,1879,8000,14000,Cabinet;lemn,5
+955,mobila,Oversized armchair,1920,2000,3000,Armchair;piele,9
+846,mobila,Leather chair,1950,1500,2500,Chair;piele,6
+391,mobila,Vintage dresser,1930,3000,6000,Dresser;lemn,6
+402,mobila,Vintage timber stools,1910,1000,2000,Stool;lemn,2
+851,bijuterie,Gold necklace,2000,1500,3000,Gold;false,5
+211,bijuterie,Diamond ring,2010,3000,5000,Diamond;true,3
+369,bijuterie,Silver necklace,2015,2000,2500,Silver;false,3
+841,bijuterie,Antique pendant,1950,3000,4000,Silver;false,4
+678,bijuterie,Gold earrings,1990,2000,3000,Gold;false,2
+912,bijuterie,Silver bracelet,1999,1000,4000,Silver;false,4
+700,bijuterie,Ruby ring,1996,1500,3000,Ruby;true,5
+122,tablou,Carul cu boi,1800,100,200,Nicolae Grigorescu;ulei,2
+222,mobila,Antique Chair,1850,200,400,Chair;lemn,3
+422,bijuterie,Amethyst ring,2000,250,300,Amethyst;true,4

@@ -1,0 +1,79 @@
+Proiect POO 2020-2021 Casa de licitatii
+Saceleanu Andrei Iulian,321CB
+
+Aplicatia simuleaza un sistem de licitatii online.
+Interactiunea se realizeaza prin intermediul unor comenzi citite
+dintr-un fisier text,fiind recunoscute comenzile de inregistrare client
+(registerClient) si inscriere intr-o licitatie pentru un produs(bid).
+Exista o "baza de date" a produselor care este incarcata la inceputul
+sesiunii dintr-un fisier CSV.Dupa efectuarea tututor comenzilor,un
+rezumat(summary) al licitatiilor derulate este stocat intr-un fisier de
+rezultate.
+
+In cadrul tranzactiilor,exista mai multe entitati majore utilizate:
+
+Casa de licitatii-deruleaza efectiv licitatiile din sistem.In cadrul unei
+sesiuni,exista o singura casa de licitatii.Fiecare tranzactie porneste
+cand exista un numar suficient de participanti(cunoscut pentru fiecare produs
+din baza de date) si nu impiedica declansarea altora(=> rulare paralela
+si concurenta datorita accesului partajat la date).
+
+Licitatie-
+Fiecare licitatie va porni intr-un thread separat,va rula un anumit numar de
+runde(asignat aleatoriu de casa de licitatii) si se poate finaliza intr-unul
+din 2 scenarii:pretul minim al produsului a fost oferit de un client prin
+intermediul brokerului sau(caz in care exista un castigator) fie nu s-a ajuns
+la acest pret(toti clientii participanti sunt instiintati ca au pierdut).
+Fiecare runda presupune analiza unei liste de propuneri din partea clientilor,
+modelate sub forma unor triplete de forma(index broker asociat,suma propusa,
+suma maxima care poate fi propusa).
+
+Client-persoana fizica sau juridica,clientul depune o solicitare pentru a
+licita un anumit produs pus la dispozitie de casa de licitatii.Participarea
+la o licitatie necesita furnizarea unei strategii de calcul al sumelor oferite
+din partea clientului,nemaiexistand posibilitatea de a schimba strategia pe 
+parcurs.In acest sens,clasa Client acomodeaza un HashMap intre licitatie
+(identificata prin id-ul thread-ului in care se deruleaza) si un tip de
+strategie.
+
+Administrator-unic la nivelul aplicatiei,administratorul se ocupa de adaugarea
+de noi produse in casa de licitatii.
+
+Produs-elementele tranzactionate in cadrul unei licitatii;
+un produs poate fi de 3 tipuri,constructia instantelor fiind asigurata
+printr-un builder utilizat impreuna cu un factory.
+
+
+Broker-mediaza interactiunea dintre casa de licitatii si client,cu 
+exceptia inscrierii la licitatie,cand clientul poate comunica direct cu casa.
+Un broker va fi reprezentantul unui singur client in cadrul unei licitatii,
+fiind si cel care transmite noi sume catre casa.La finalul unei tranzactii,
+fiecare broker care a avut un client in licitatia respectiva il notifica
+asupra rezultatului(se vor actualiza numarul de participari ale clientului
+si,eventual,in caz de castig,numarul de licitatii castigate)
+
+
+Design Patterns (Singleton,Builder,Factory,Strategy,Observer,Mediator,Visitor)
+Constructia de instante ale unor clase
+(ex. Client si derivatele,Produs,BidStrategy) este facilitata de builder
+pattern si factory pattern.In cazul produselor,cele 2 sunt inlantuite
+(builder-ul este parametrizat pentru ca ,mai apoi,factory-ul sa ofere o
+instanta in functie de sirul de caractere dat).
+Casa de licitatii si administratorul sunt implementari singleton(o singura
+instanta la nivelul aplicatiei).
+Modul in care un client abordeaza o licitatie difera de la o tranzactie la alta
+si intre clienti astfel ca ,prin intermediul Strategy Pattern,o serie de
+abordari/strategii pot fi atribuite si utilizate in mod dinamic.
+Casa de licitatii efectueaza calculele in cadrul unei licitatii si notifica
+brokerii asupra rezultatelor pentru a efectua anumite operatii la randul lor=>
+o forma de Observer Pattern.
+Mediator=>brokerul mediaza interactiunea intre clienti si casa de licitatii
+Visitor=> casa de licitatii,prin metoda acceptClient,are abilitatea de a stii
+ce sa faca in cazul inscrierii(vizitarii) unui client la o licitatie
+(crearea licitatiei daca nu exista deja,asignarea unui broker pentru client si
+pornirea licitatiei daca s-a atins numarul de participanti).
+
+**Fisierul de intrare al comenzilor(commands.txt),baza de date products.csv
+si fisierul de rezultate results.txt trebuie sa se afle in radacina proiectului.
+**Bibliotecile externe JAR utilizate sunt:commons-csv-1.8.jar,junit-4.12.jar
+si hamcrest-all-1.3.jar

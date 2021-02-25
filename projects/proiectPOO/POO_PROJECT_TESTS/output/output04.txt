@@ -1,0 +1,7 @@
+SummaryEntry [winnerName=Gigel, idLicitatie=1361, idProdus=222, idWinner=125, winningPrice=600.0]
+SummaryEntry [winnerName=DAS, idLicitatie=1992, idProdus=123, idWinner=201, winningPrice=25000.0]
+SummaryEntry [winnerName=KHI, idLicitatie=2306, idProdus=211, idWinner=819, winningPrice=4125.0]
+SummaryEntry [winnerName=Vasile, idLicitatie=6555, idProdus=122, idWinner=124, winningPrice=175.0]
+SummaryEntry [winnerName=Gigel, idLicitatie=6743, idProdus=422, idWinner=125, winningPrice=800.0]
+SummaryEntry [winnerName=PXW, idLicitatie=8317, idProdus=402, idWinner=406, winningPrice=3000.0]
+

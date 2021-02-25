@@ -1,0 +1,56 @@
+registerClient fizic 123 Ion Street1
+registerClient fizic 124 Vasile Street2
+registerClient fizic 125 Gigel Street3
+bid 123 678 100000 cautious
+bid 124 678 100000 cautious
+bid 123 842 100000 eager
+bid 124 842 100000 eager
+bid 123 912 100000 cautious
+bid 124 912 100000 cautious
+bid 123 391 100000 musthave
+bid 124 391 100000 musthave
+registerClient juridic 236 ABC XStreet
+registerClient fizic 452 John First Street
+bid 236 842 100000 musthave
+registerClient fizic 342 Mark Second Street
+bid 452 471 16000 eager
+registerClient juridic 406 PXW Street14
+registerClient juridic 562 TQF Street15
+bid 406 912 50000 musthave
+bid 562 912 75000 eager
+registerClient juridic 791 JSR Street16
+bid 342 471 16000 musthave
+bid 123 122 150 cautious
+bid 124 122 175 eager
+bid 123 422 500 cautious
+bid 124 422 500 cautious
+bid 236 422 700 eager
+registerClient fizic 941 Will Main Boulevard
+registerClient fizic 853 Carl This Road
+bid 941 402 2000 eager
+bid 406 402 3000 eager
+registerClient fizic 876 Marie Street10
+registerClient fizic 901 Elizabeth Street11
+bid 876 471 16000 cautious
+bid 901 471 16500 eager
+registerClient juridic 700 BEC Street12
+registerClient juridic 819 KHI Street13
+bid 876 391 100000 eager
+bid 901 391 100000 eager
+bid 700 391 100000 eager
+bid 819 391 100000 eager
+bid 125 422 800 musthave
+bid 123 222 300 musthave
+bid 124 222 400 cautious
+bid 700 211 5000 cautious
+bid 876 211 3750 musthave
+bid 125 222 600 eager
+registerClient juridic 200 QWE Street4
+registerClient juridic 201 DAS Street5
+bid 201 211 5000 eager
+bid 200 721 22000 cautious
+bid 201 721 22001 cautious
+bid 941 721 22001 eager
+registerClient juridic 202 TYG Street6
+bid 200 123 20000 eager
+bid 201 123 25000 eager

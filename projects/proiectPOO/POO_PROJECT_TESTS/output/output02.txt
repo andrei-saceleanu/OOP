@@ -1,0 +1,4 @@
+SummaryEntry [winnerName=DAS, idLicitatie=1583, idProdus=123, idWinner=201, winningPrice=25000.0]
+SummaryEntry [winnerName=ABC, idLicitatie=4546, idProdus=422, idWinner=236, winningPrice=700.0]
+SummaryEntry [winnerName=Vasile, idLicitatie=5344, idProdus=122, idWinner=124, winningPrice=175.0]
+SummaryEntry [winnerName=Gigel, idLicitatie=6803, idProdus=222, idWinner=125, winningPrice=600.0]
