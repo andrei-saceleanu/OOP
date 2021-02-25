@@ -1,0 +1,20 @@
+Saceleanu Andrei Iulian,321CB
+
+Tema 1 POO - gps
+
+Fiecare vehicul pentru care este disponibil sistemul de navigatie are un tip,
+un gabarit si un cost asa ca fiecare va reprezenta o clasa care extinde clasa
+abstracta Vehicul.In constructorii fiecaruia se seteaza campurile corespunzator.
+
+Restrictiile cunoscute la compilare (RGabarit si RViteza) precum si cele la rulare
+(Ambuteiaj) implementeaza interfata marker Restrictie fara nicio metoda sau constanta.
+
+Intern,graful este reprezentat cu o lista de muchii/strazi.Fiecare ambuteiaj care apare
+la runtime este adaugat in lista de ambuteiaje a strazii respective.Graful este identic
+pentru fiecare tip de vehicul.In cadrul gasirii celui mai scurt drum,calculul
+specific fiecarui tip este facilitata de un factory care produce o instanta conform
+parametrului de tip dat cat si de o metoda(getCostByVehicle) care produce un cost de strada
+corespunzator.
+
+Stocarea vecinilor cei mai apropiati in parcurgerea Dijkstra se realizeaza cu un Priority
+Queue ,realizat sa suporte orice tip generic comparabil,in format MinHeap.
